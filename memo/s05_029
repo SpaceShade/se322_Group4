@@ -1,0 +1,42 @@
+# s05
+
+## url
+https://www.researchgate.net/publication/334093084_Design_Issues_in_Distributed_Software
+
+## archive url
+https://tinyurl.com/bddv5t63
+
+## title
+Design Issues in Distributed Software 
+
+## source type
+Documentation 
+
+## author type
+ Ashish Kumar Maurya
+
+## date
+2018 December
+
+## problem
+1. Dividing computational load of a job into multiple 
+tasks so as to be able to assign to various processing 
+nodes and exploit concurrency. (Task Partitioning) 
+2. Managing inter process communication (IPC) 
+requirements among the tasks of a job. 
+3. Mapping task onto various processing nodes as per 
+the capacity and capability requirements of task 
+from the selected processing node. (Task allocation 
+or Task mapping) 
+
+### solution for problem 
+N/A
+
+## Decision Driver
+N/A
+
+## Reference
+N/A
+
+## remarks
+N/A

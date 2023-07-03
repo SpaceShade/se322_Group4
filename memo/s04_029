@@ -1,0 +1,39 @@
+# s04
+
+## url
+https://cs.ccsu.edu/~stan/classes/CS530/Notes18/17-DistributedSE.html
+
+## archive url
+https://tinyurl.com/277u9752
+
+## title
+CS 530 - Advanced Software Engineering
+Distributed Software Engineering
+
+## source type
+Documentation 
+
+## author type
+N/A
+
+## date
+N/A
+
+## problem
+1.Openness: should a system be designed using standard protocols that support interoperability?
+2.Transparency: to what extent should the distributed system appear to the user as a single system?
+3.Scalability: how can the system be constructed so that it is scaleable? 
+4.Security: how can usable security policies be defined and implemented?
+5.Quality of service: how should the quality of service be specified?
+6.Failure management: how can system failures be detected, contained and repaired? 
+### solution for problem 
+N/A
+
+## Decision Driver
+N/A
+
+## Reference
+Sommerville, Software Engineering, 10 ed., Chapter 17
+
+## remarks
+N/A

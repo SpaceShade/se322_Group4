@@ -1,0 +1,40 @@
+# s02
+
+## url
+https://slideplayer.com/slide/5923690/
+
+## archive url
+https://tinyurl.com/4ebw75kd
+
+## title
+Distributed Software Engineering
+
+## source type
+Documentation 
+
+## author type
+Annabella Hodges
+
+## date
+N/A
+
+## problem
+1.Distributed systems are more complex than systems that run on a single processor.
+
+### solution for problem 1.
+N/A
+
+## Decision Driver
+Here are some key factors that contribute to the increased complexity:
+ 1. Communication and coordination:
+ 2. Concurrency and parallelism
+ 3. Fault tolerance and reliability:
+ 4. Data consistency and replication:
+ 5. Scalability and performance: 
+ 6. Security and privacy
+ 7. Configuration and deployment: 
+## Reference
+N/A
+
+## remarks
+N/A
